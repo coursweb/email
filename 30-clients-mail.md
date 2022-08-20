@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cliens email
+title: Clients email
 permalink: clients.html
 ---
 
