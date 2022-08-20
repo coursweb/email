@@ -1,0 +1,15 @@
+remote_theme: coursweb/jk-theme
+title: Email
+description: Documentation sur l'email.
+lang: fr-FR
+chapters:
+ - title: Cours-web
+   url: https://cours-web.ch/
+
+   # Footer content
+# Content is split in three columns.   
+footer_col_1: <ul class="contact-list">
+  <li>Un support de cours</li>  
+  <li>Eracom, Lausanne</li>
+  <li>2022</li></ul>
+footer_col_2: <ul class="social-media-list"><li><a href="https://github.com/coursweb/email">Lien Github</a></li></ul>
