@@ -5,7 +5,10 @@ lang: fr-FR
 chapters:
  - title: Cours-web
    url: https://cours-web.ch/
-
+ - title: Newsletters
+   url: https://cours-web.ch/newsletters/
+ - title: Bases en informatique
+   url: https://cours-web.ch/informatique-base/   
    # Footer content
 # Content is split in three columns.   
 footer_col_1: <ul class="contact-list">
