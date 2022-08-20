@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bases
-permalink: bases.html
+permalink: index.html
 ---
 
 # Utiliser l'email
