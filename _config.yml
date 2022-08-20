@@ -5,6 +5,8 @@ lang: fr-FR
 chapters:
  - title: Cours-web
    url: https://cours-web.ch/
+ - title: Email
+   url: https://cours-web.ch/email/
  - title: Newsletters
    url: https://cours-web.ch/newsletters/
  - title: Bases en informatique
