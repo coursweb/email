@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Raccourcis
-permalink: hebergement.html
+permalink: raccourcis.html
 ---
 
 ## Raccourcis clavier
